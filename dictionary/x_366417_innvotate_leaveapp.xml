@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="leaveapp" max_length="40" name="x_366417_innvotate_leaveapp" sizeclass="2" type="collection">
+        <element label="leave for" max_length="32" name="u_reference_1" reference="sys_user" type="reference"/>
+    </element>
+</database>
